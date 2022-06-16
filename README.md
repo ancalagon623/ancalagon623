@@ -3,8 +3,11 @@ Hello! My name is Michael Grumbine.
 Recently completed Parsity's Software Development program, and looking for junior dev work!
 
 Developing my skills in:
+
 React.js
+
 Node.js
+
 Wordpress.org
 
 Looking for a company with large opportunities for growth in many aspects of the business.
