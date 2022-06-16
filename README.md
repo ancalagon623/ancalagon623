@@ -4,11 +4,11 @@ Recently completed Parsity's Software Development program, and looking for junio
 
 Developing my skills in:
 
-React.js
+-  React.js
 
-Node.js
+-  Node.js
 
-Wordpress.org
+-  Wordpress.org
 
 Looking for a company with large opportunities for growth in many aspects of the business.
 
