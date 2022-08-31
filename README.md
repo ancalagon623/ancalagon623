@@ -1,6 +1,6 @@
 Hello! My name is Michael Grumbine.
 
-I Recently completed Parsity's Software Development program, and looking for junior dev work!
+I Recently completed Parsity's Software Development program, and am looking for junior dev work!
 
 Developing my skills in:
 
