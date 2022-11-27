@@ -8,7 +8,9 @@ Developing my skills in:
 
 -  Node.js
 
--  Wordpress.org
+-  Typescript
+
+-  Python
 
 Looking for a company with large opportunities for growth in many aspects of the business.
 
