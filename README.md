@@ -1,8 +1,12 @@
 Hello! My name is Michael Grumbine.
 
-I Recently completed Parsity's Software Development program, and am looking for junior dev work!
+I am just beginning my career as a Junior Full Stack Developer.
 
 Developing my skills in:
+
+-  Angular
+
+-  SQL
 
 -  React.js
 
@@ -11,8 +15,6 @@ Developing my skills in:
 -  Typescript
 
 -  Python
-
-Looking for a company with large opportunities for growth in many aspects of the business.
 
 Reach me at:
 https://www.linkedin.com/in/michael-grumbine/
