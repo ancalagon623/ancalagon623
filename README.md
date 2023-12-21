@@ -16,6 +16,8 @@ Developing my skills in:
 
 -  Python
 
+-  And a bit of Pixi.js
+
 Reach me at:
 https://www.linkedin.com/in/michael-grumbine/
 
