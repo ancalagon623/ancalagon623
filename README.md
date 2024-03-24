@@ -1,6 +1,6 @@
 Hello! My name is Michael Grumbine.
 
-I am just beginning my career as a Junior Full Stack Developer.
+I am a software develoer focused on web technologies and SQL at the moment
 
 Developing my skills in:
 
