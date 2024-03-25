@@ -1,6 +1,6 @@
 Hello! My name is Michael Grumbine.
 
-I am a software develoer focused on web technologies and SQL at the moment
+I am a software developer focused on NodeJS, Angular, and SQL.
 
 Developing my skills in:
 
